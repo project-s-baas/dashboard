@@ -1,0 +1,10 @@
+{
+    "layout": {
+        "home": "Home",
+        "database": "Database",
+        "security": "Security",
+        "auth": "Auth",
+        "analytics": "Analytics",
+        "settings": "Settings"
+    }
+}

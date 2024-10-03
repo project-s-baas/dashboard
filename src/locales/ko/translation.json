@@ -1,0 +1,15 @@
+{
+    "modeToggle": {
+        "light": "라이트",
+        "dark": "다크",
+        "system": "시스템"
+    },
+    "layout": {
+        "home": "홈",
+        "database": "데이터베이스",
+        "security": "보안",
+        "auth": "인증",
+        "analytics": "분석",
+        "settings": "설정"
+    }
+}
